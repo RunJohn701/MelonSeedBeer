@@ -1,3 +1,1 @@
-{
-  "userApi":"https://ostapis.run2riches.com/user"
-}
+{"api":"https://ostapis.run2riches.com/user/","ws":"wss://ostapis.run2riches.com/webSocket/socketServer/app/"}
